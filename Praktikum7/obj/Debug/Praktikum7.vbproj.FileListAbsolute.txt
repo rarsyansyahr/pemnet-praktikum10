@@ -1,0 +1,31 @@
+D:\STMIK Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Praktikum\Praktikum7\Praktikum7\bin\Debug\Praktikum7.exe.config
+D:\STMIK Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Praktikum\Praktikum7\Praktikum7\obj\Debug\Praktikum7.form.resources
+D:\STMIK Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Praktikum\Praktikum7\Praktikum7\obj\Debug\Praktikum7.Resources.resources
+D:\STMIK Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Praktikum\Praktikum7\Praktikum7\obj\Debug\Praktikum7.vbproj.GenerateResource.Cache
+D:\STMIK Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Praktikum\Praktikum7\Praktikum7\bin\Debug\Praktikum7.exe
+D:\STMIK Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Praktikum\Praktikum7\Praktikum7\bin\Debug\Praktikum7.pdb
+D:\STMIK Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Praktikum\Praktikum7\Praktikum7\bin\Debug\Praktikum7.xml
+D:\STMIK Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Praktikum\Praktikum7\Praktikum7\obj\Debug\Praktikum7.exe
+D:\STMIK Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Praktikum\Praktikum7\Praktikum7\obj\Debug\Praktikum7.xml
+D:\STMIK Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Praktikum\Praktikum7\Praktikum7\obj\Debug\Praktikum7.pdb
+D:\STMIK Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Praktikum\18.11.0153 Rizky Arsyansyah Rinjani TI18S - Tugas VB.NET+SqlServer\Praktikum7\Praktikum7\bin\Debug\Praktikum7.exe.config
+D:\STMIK Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Praktikum\18.11.0153 Rizky Arsyansyah Rinjani TI18S - Tugas VB.NET+SqlServer\Praktikum7\Praktikum7\obj\Debug\Praktikum7.exe
+D:\STMIK Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Praktikum\18.11.0153 Rizky Arsyansyah Rinjani TI18S - Tugas VB.NET+SqlServer\Praktikum7\Praktikum7\obj\Debug\Praktikum7.xml
+D:\STMIK Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Praktikum\18.11.0153 Rizky Arsyansyah Rinjani TI18S - Tugas VB.NET+SqlServer\Praktikum7\Praktikum7\obj\Debug\Praktikum7.pdb
+D:\STMIK Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Praktikum\18.11.0153 Rizky Arsyansyah Rinjani TI18S - Tugas VB.NET+SqlServer\Praktikum7\Praktikum7\bin\Debug\Praktikum7.exe
+D:\STMIK Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Praktikum\18.11.0153 Rizky Arsyansyah Rinjani TI18S - Tugas VB.NET+SqlServer\Praktikum7\Praktikum7\bin\Debug\Praktikum7.pdb
+D:\STMIK Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Praktikum\18.11.0153 Rizky Arsyansyah Rinjani TI18S - Tugas VB.NET+SqlServer\Praktikum7\Praktikum7\bin\Debug\Praktikum7.xml
+D:\STMIK Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Praktikum\18.11.0153 Rizky Arsyansyah Rinjani TI18S - Tugas VB.NET+SqlServer\Praktikum7\Praktikum7\obj\Debug\Praktikum7.form.resources
+D:\STMIK Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Praktikum\18.11.0153 Rizky Arsyansyah Rinjani TI18S - Tugas VB.NET+SqlServer\Praktikum7\Praktikum7\obj\Debug\Praktikum7.Resources.resources
+D:\STMIK Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Praktikum\18.11.0153 Rizky Arsyansyah Rinjani TI18S - Tugas VB.NET+SqlServer\Praktikum7\Praktikum7\obj\Debug\Praktikum7.vbproj.GenerateResource.Cache
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Praktikum\Praktikum7\Praktikum7\bin\Debug\Praktikum7.exe.config
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Praktikum\Praktikum7\Praktikum7\obj\Debug\Praktikum7.exe
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Praktikum\Praktikum7\Praktikum7\obj\Debug\Praktikum7.xml
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Praktikum\Praktikum7\Praktikum7\obj\Debug\Praktikum7.pdb
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Praktikum\Praktikum7\Praktikum7\bin\Debug\Praktikum7.exe
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Praktikum\Praktikum7\Praktikum7\bin\Debug\Praktikum7.pdb
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Praktikum\Praktikum7\Praktikum7\bin\Debug\Praktikum7.xml
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Praktikum\Praktikum7\Praktikum7\obj\Debug\Praktikum7.form.resources
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Praktikum\Praktikum7\Praktikum7\obj\Debug\Praktikum7.MasterCustomer.resources
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Praktikum\Praktikum7\Praktikum7\obj\Debug\Praktikum7.Resources.resources
+D:\Universitas Amikom Purwokerto\Materi Kuliah\Semester 3\Pemrogaman .NET\Praktikum\Praktikum7\Praktikum7\obj\Debug\Praktikum7.vbproj.GenerateResource.Cache
